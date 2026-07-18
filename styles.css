@@ -1,0 +1,30 @@
+header {
+    background-color:lightblue;
+    h1 {
+        font-family: fantasy;
+        font-weight: lighter;
+        font-size: 60px
+    }
+}
+table.navigation {
+    width: 400px;
+    tr {
+        td {
+            font-size: 24px
+        }
+    }
+}
+table.recent-releases {
+    img {
+        width: 300px
+    }
+}
+
+.release-details {
+    font-size: 24px;
+    font-weight:bold;
+}
+
+h2.series-title {
+    font-style: italic
+}
