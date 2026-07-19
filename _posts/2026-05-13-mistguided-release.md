@@ -1,16 +1,12 @@
-<html lang="">
-    <head>
-        <title>Home</title>
-        <script src="airspire-header.js" defer></script>
-        <link rel="stylesheet" href="styles.css">
-    </head>
-    <body>
-        <airspire-header></airspire-header>
-        <hr/>
-    <h2>Recent Releases</h2>
-    <table class="recent-releases">
+---
+layout: post
+title:  "Mistguided Released on Amazon!"
+date:   2026-05-31 00:00:00 -0500
+categories: mistworld
+---
+<table class="recent-releases">
         <tr>
-            <td><img src="images/mistguided.jpg" alt="Mistguided"></td>
+            <td><a href="https://www.amazon.com/gp/product/B0GX2Y8VN8"><img src="../../../../images/mistguided.jpg" alt="Mistguided"></a></td>
             <td>
                 <p class="release-details">Book 4 of the <i>Mistworld</i> Series</p>
                 <p style="font-size:large; font-weight:bold">When you've lost your spark, how do you keep moving?</p>
@@ -21,5 +17,3 @@
             </td>
         </tr>
     </table>
-    </body>
-</html>
