@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 <table class="recent-releases">
     <tr>
-        <td><a href="https://www.amazon.com/gp/product/B0FH9LHHQL"><img src="../../../../images/mistbound.jpg" alt="Mistbound"></a></td>
+        <td><a href="https://www.amazon.com/gp/product/B0FH9LHHQL"><img src="{{ '/images/mistbound.jpg' | relative_url }}" alt="Mistbound"></a></td>
         <td>
             <p style="font-size:large; font-weight:bold">When the world is ending, what do you do with your time?</p>
             <p>For Maeryn, the answer is simple: you find a solution.</p>
@@ -19,7 +19,7 @@ Or they'll die trying.</p>
         </td>
     </tr>
     <tr>
-        <td><a href="https://www.amazon.com/gp/product/B0FLX3H91L"><img src="../../../../images/mistwarped.jpg" alt="Mistwarped"></a></td>
+        <td><a href="https://www.amazon.com/gp/product/B0FLX3H91L"><img src="{{ '/images/mistwarped.jpg' | relative_url }}"></a></td>
         <td>
             <p style="font-size:large; font-weight:bold">When solving the unsolvable means breaking the rules, are you justified?</p>
             <p>For Maeryn, the answer is unequivocally yes.</p>
@@ -30,7 +30,7 @@ Or they'll die trying.</p>
         </td>
     </tr>
     <tr>
-        <td><a href="https://www.amazon.com/gp/product/B0GLMXM7VG"><img src="../../../../images/mistrusted.jpg" alt="Mistrusted"></a></td>
+        <td><a href="https://www.amazon.com/gp/product/B0GLMXM7VG"><img src="{{ '/images/mistrusted.jpg' | relative_url }}" alt="Mistrusted"></a></td>
         <td>
             <p style="font-size:large; font-weight:bold">When given a choice between right and necessary, what is the best answer?</p>
             <p>For Maeryn, the answer is clear: do what you must... and grieve later.</p>
@@ -40,7 +40,7 @@ Or they'll die trying.</p>
         </td>
     </tr>
     <tr>
-        <td><a href="https://www.amazon.com/gp/product/B0GX2Y8VN8"><img src="../../../../images/mistguided.jpg" alt="Mistguided"></a></td>
+        <td><a href="https://www.amazon.com/gp/product/B0GX2Y8VN8"><img src="{{ '/images/mistguided.jpg' | relative_url }}" alt="Mistguided"></a></td>
         <td>
             <p style="font-size:large; font-weight:bold">When you've lost your spark, how do you keep moving?</p>
             <p>For Maeryn, the answer is hard: try to light a new one. No matter how long it takes.</p>
